@@ -1,0 +1,5 @@
+As stated in the README from the previous directory, this project is functional, with plans to further expand functions and utilities. With likely further macro integration, dashboard utilities, and data visualization.
+
+The refresh button will update all data dependent on current stock price data. With plans for another macro that will run upon initially opening the file.
+
+Ive also seperated individual stocks from ETPs, since those markets have such a large differential on volatily. I also plan to add another section representing a selection of Mutual Funds, and Bonds.
