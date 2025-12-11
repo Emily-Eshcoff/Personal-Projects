@@ -1,0 +1,42 @@
+
+*.ssh/
+*.key
+*.pem
+*.p12
+secrets/
+.env
+passwords.nix
+private/
+
+result
+result-*
+.direnv/
+
+.vscode
+.idea
+*.swp
+*.swo
+*~
+.DS_store
+
+*.tmp
+*.bak
+*~
+
+*.log
+logs/
+
+node_modules/
+
+_pychache_/
+
+*.pyc
+
+*.orig
+*.backup
+
+Thumbs.db
+.Spotlight-V100
+.Trashes   programs.git = {
+     enable = true;
+   };
